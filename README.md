@@ -211,7 +211,7 @@ Repo forked from the V3 made by:
  * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 
 V4 made by:
- * Ekpa Daniel, [lroudge](https://github.com/Danny-Flames) : Full-stack Software Engineer, passionate about helping and teachings peers, located in the Paris area, France.
+ * Ekpa Daniel, [Danny-Flames](https://github.com/Danny-Flames) : Full-stack Software Engineer, passionate about helping and teachings peers, located in the Paris area, France.
 
 ## License
 
